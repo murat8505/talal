@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">my recipes show</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_categoies_video">"Categoies - Chanels"</string>
+    <string name="title_activity_list_videos">ListVideosActivity</string>
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+    <string name="setting">Setting</string>
+
+    <!-- message -->
+    <string name="no_network">Check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="get_by_locale">Get by locale</string>
+
+</resources>
